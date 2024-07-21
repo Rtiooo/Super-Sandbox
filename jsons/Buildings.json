@@ -16,7 +16,8 @@
         "hurryCostModifier": 0,
         "maintenance": 0,
         "uniques": [
-            "Provides [900] [Admission]"
+            "Provides [900] [Admission]",
+            "[2000]% tech"
         ]
     },
     {
