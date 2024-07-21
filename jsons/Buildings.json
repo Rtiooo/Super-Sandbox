@@ -11,6 +11,15 @@
         ]
     },
     {
+        "name": "Ayam",
+        "cost": 1,
+        "hurryCostModifier": 0,
+        "maintenance": 0,
+        "uniques": [
+            "Provides [900] [Admission]"
+        ]
+    },
+    {
         "name": "Sandbox Mode Admission",
         "cost": 1,
         "hurryCostModifier": 0,
